@@ -5,6 +5,9 @@ I'm Stephen from Orlando, Florida! There are a lot of titles developers can get 
 Some of the following technologies I work on for the front end:  Angular, Angular Material, TypeScript, RxJS, TailWind, SCSS, WebPack, PWA.
 Some of the following technologies I work on for the back-end: 
 
+
+Unforunately I day to day I mainly work in Azure Dev Ops for my personal company project. Maybe there is a way I can eventually flex that here =[
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smoreira1&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
