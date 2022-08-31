@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Stephen from Orlando, Florida!
 #### Software Engineer
-![Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 There are a lot of titles developers can get assigned, but I simply I like mentally identify as a "Software Engineer". Meaning I care, work on and study the intersection of Computer Science and Economics.
 
