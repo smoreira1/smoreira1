@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Stephen a Software Engineer from Orlando, Florida!
+## Hellos 👋, I'm Stephen a Software Engineer from Orlando, Florida!
 
 There are a lot of titles developers can get assigned, but I simply I like mentally identify as a "Software Engineer". Meaning I care, work on and study the intersection of Computer Science and Economics.
 
