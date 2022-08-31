@@ -4,6 +4,12 @@
 
 There are a lot of titles developers can get assigned, but I simply I like mentally identify as a "Software Engineer". Meaning I care, work on and study the intersection of Computer Science and Economics.
 
+## Skills and Experience
+* : 🅰️ Angular
+* : 📱 Progressive Web Apps
+* : 💻 HTML, CSS, JS
+* : 🔁RxJS
+
 Skills: Angular / TS / JS / HTML / CSS / SCSS
 
 - 🔭 I’m currently working on Project Starlight 
