@@ -4,8 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smoreira1&label=Profile%20views&color=0e75b6&style=flat" alt="smoreira1" /> </p>
 
 - 🔭 I’m currently working on **Starlight**
+- Portfolio Doc: https://smoreira1.github.io/
 
-- 📫 How to reach me **smoreira1@Live.com**
+- 📫 How to reach me **smoreira1@Live.com** **stephen.d.moreira@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
