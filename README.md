@@ -7,7 +7,6 @@
 - Portfolio Doc: https://smoreira1.github.io/
 
 - 📫 How to reach me
--  **smoreira1@Live.com** 
 -  **stephen.d.moreira@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
