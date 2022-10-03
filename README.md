@@ -20,7 +20,7 @@
 
 <h3> Project <a href='https://starlight-public.azurewebsites.net'>Starlight<a> </h3>
 
-Project Starlight a product that belongs to B.L. Media Group LLC which I own is a product aimed at ultra low latency and reactive products. Built with the following technologies:
+Project Starlight a product that belongs to B.L. Media Group LLC which I own is a product aimed at ultra low latency and reactive products. The environment above is a public configured version with many features potentially disabled via features flags. Built with the following technologies:
 
 - Angular
 - Azure
