@@ -35,6 +35,10 @@ Project Starlight a product that belongs to B.L. Media Group LLC which I own is 
 
 More details to come soon, this project is private and mainly lives on Azure Dev Ops. 
 
+<h3> Youtube </h3>
+
+
+<div>Videos coming soon. </div>
 
 Unforunately I day to day I mainly work in Azure Dev Ops for my personal company project. Maybe there is a way I can eventually flex that here =[
 
