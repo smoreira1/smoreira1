@@ -4,12 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smoreira1&label=Profile%20views&color=0e75b6&style=flat" alt="smoreira1" /> </p>
 
 - 🔭 I’m currently working on **Starlight**
-- Portfolio Doc: https://smoreira1.github.io/
+- Portfolio Doc: https://smoreira1.github.io/  
+- 📫 How to reach me : **stephen.d.moreira@gmail.com**
 
-- 📫 How to reach me
--  **stephen.d.moreira@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: I'm fairly active on twitter!</h3>
 <p align="left">
 <a href="https://twitter.com/@@stephendmoreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@@stephendmoreira" height="30" width="40" /></a>
 </p>
