@@ -18,6 +18,8 @@
 <h3> Project <a href='https://starlight-public.azurewebsites.net'><img src="./assets/icons/Starlight.svg" height='25px;' width='25px' style='margin-top:2px;'>tarlight<a></h3>
 Project Starlight a product that belongs to B.L. Media Group LLC which I own is a product aimed at ultra low latency and reactive products. The environment above is a public configured version with many features potentially disabled via features flags. Built with the following technologies:
 
+<i><span style='color:red;'>Waring! The application sandbox above is part of CI/the trunk build. Could very well be broken as it is actively under development.</span> </i>
+
 - Angular
 - Azure
 - RxJS
