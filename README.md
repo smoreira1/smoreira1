@@ -43,9 +43,9 @@ More details to come soon, this project is private and mainly lives on Azure Dev
   Though I believe there are plenty of real cool and fun problems to solve in these coding sites. It has been my experience and belief these offer either little value or in fact negative value when it comes to real world applicantion of software development. My personal advice to anyone would be build a product to get real tangiable experience. Unfortunately there has now been a bussiness sector propelling and investing in these sites and question for interview processes that have little to do with day to day job roles in majority of the software development industry.  
 </p>
 <ul>
-  <li><a>https://leetcode.com/Yuifa/</a></li>
-  <li><a>https://www.hackerrank.com/Yuifa</a></li>
-  <li><a>https://codeforces.com/profile/Yuifa</a></li>
+  <li><a href='https://leetcode.com/Yuifa/'>https://leetcode.com/Yuifa/</a></li>
+  <li><a href='https://www.hackerrank.com/Yuifa'>https://www.hackerrank.com/Yuifa</a></li>
+  <li><a href='https://codeforces.com/profile/Yuifa'>https://codeforces.com/profile/Yuifa</a></li>
 </ul>
 
 
