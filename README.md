@@ -33,7 +33,10 @@ Project Starlight a product that belongs to B.L. Media Group LLC which I own is 
 - Azure Pipelines
 - ....and many more. 
 
-More details to come soon, this project is private and mainly lives on Azure Dev Ops. 
+<p>More details to come soon, this project is private and mainly lives on Azure Dev Ops.</p>
+
+<h3>B.L. Media Group LLC Marketing Site</h3>
+
 
 <h2>Youtube</h2>
 <p>Videos coming soon.</p>
@@ -49,7 +52,8 @@ More details to come soon, this project is private and mainly lives on Azure Dev
 </ul>
 
 <h2>Activity</h2>
-Unforunately I day to day I mainly work in Azure Dev Ops for my personal company project. Maybe there is a way I can eventually flex that here =[
+Unforunately many of my commits are on Azure Dev Ops.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smoreira1&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
