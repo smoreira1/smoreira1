@@ -38,7 +38,7 @@ More details to come soon, this project is private and mainly lives on Azure Dev
 
 <div>Videos coming soon. </div>
 
-<h2>Coding Proficent</h2>
+<h2>Coding Proficiency</h2>
 <p>
   Though I believe there are plenty of real cool and fun problems to solve in these coding sites. It has been my experience and belief these offer either little value or in fact negative value when it comes to real world applicantion of software development. My personal advice to anyone would be build a product to get real tangiable experience. Unfortunately there has now been a bussiness sector propelling and investing in these sites and question for interview processes that have little to do with day to day job roles in majority of the software development industry.  
 </p>
