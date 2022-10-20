@@ -47,8 +47,6 @@ Project Starlight a product that belongs to B.L. Media Group LLC which I own is 
 </p>
 <ul>
   <li><a href='https://leetcode.com/Yuifa/'>https://leetcode.com/Yuifa/</a></li>
-  <li><a href='https://www.hackerrank.com/Yuifa'>https://www.hackerrank.com/Yuifa</a></li>
-  <li><a href='https://codeforces.com/profile/Yuifa'>https://codeforces.com/profile/Yuifa</a></li>
 </ul>
 
 <h2>Activity</h2>
