@@ -1,6 +1,7 @@
 <h1 align="center">Hellos 👋, I'm Stephen a Software Engineer from Orlando, Florida!</h1>
 <p align="left">There are a lot of titles developers can get assigned, but I to mentally identify as a "Software Engineer". The conceptual meaning I have for that title: I work on and study the intersection of Computer Science and Economics.</p>
 
+> **Note**
 <i>This profile is currently being highly altered until I am happy with it's structure =] 10/21/2022</i>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smoreira1&label=Profile%20views&color=0e75b6&style=flat" alt="smoreira1" /> </p>
