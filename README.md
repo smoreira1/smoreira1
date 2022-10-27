@@ -25,9 +25,7 @@
 > **Warning**
 <i><span style='color:red;'>The application sandbox above is part of CI/the trunk build. Could very well be broken as it is actively under development.</span> </i>
 
-Project Starlight a product that belongs to B.L. Media Group LLC which I own is a product aimed at ultra low latency and reactive products. The environment above is a public configured version with many features potentially disabled via features flags. Built with the following technologies:
-
-
+<p>Project Starlight a product that belongs to B.L. Media Group LLC which I own is a product aimed at ultra low latency and reactive products. The environment above is a public configured version with many features potentially disabled via features flags. Built with the following technologies:</p>
 
 - Angular
 - Azure
@@ -43,10 +41,19 @@ Project Starlight a product that belongs to B.L. Media Group LLC which I own is 
 <p>More details to come soon, this project is private and mainly lives on Azure Dev Ops.</p>
 
 <h3>B.L. Media Group LLC Marketing Site</h3>
-
-
-<h2>Youtube</h2>
-<p>Videos coming soon.</p>
+  <p>Built with:</p>
+- qwik.
+- java spring boot
+- aws dynamodb
+  
+<h3>Biography</h3>
+  <p>Built with:</p> 
+ - qwik.
+  
+<h3>Real Code</h3>
+  <p>Built with:</p>
+- Angular
+- Firebase
 
 <h2>Coding Proficiency</h2>
 <p>
