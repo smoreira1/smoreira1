@@ -53,7 +53,7 @@
 <p>Bachelor's of Science Computer Science at University of Central Florida</p>
   
 <h2>Certifications</h2>
-  <p>Working on Azure: Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions <a href=''>Certification</a></p>
+  <p>Working on Azure: Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions <a href='https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/#certification-prerequisites'>Certification</a></p>
   <p>Working on Azure: Microsoft Certified: Azure Solutions Architect Expert <a href='https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/'>Certification</a></p>
 <h2>Awards</h2>
 
