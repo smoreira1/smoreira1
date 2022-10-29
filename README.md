@@ -10,6 +10,9 @@
 - Portfolio Doc: https://smoreira1.github.io/  
 - 📫 How to reach me : **stephen.d.moreira@gmail.com**
 
+<h2>Resume</h2>
+<p>Feel free to take a look at my <a href='https://resume.io/r/hTW5esvBv'>resume</a>.</p>
+
 <h2>Socials</h2>
 <h3 align="left">Connect with me: I'm fairly active on twitter!</h3>
 <p align="left">
