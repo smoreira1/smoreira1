@@ -1,4 +1,4 @@
-<h1 align="center">Hellos 👋, I'm Stephen a Software Engineer from Orlando, Florida!</h1>
+<h1 align="center">Hello World 🌎 👋 , I'm Stephen a Software Engineer from Orlando, Florida!</h1>
 <p align="left">There are a lot of titles developers can get assigned, but I to mentally identify as a "Software Engineer". The conceptual meaning I have for that title: I work on and study the intersection of Computer Science and Economics.</p>
 
 > **Note**
