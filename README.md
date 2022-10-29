@@ -51,6 +51,9 @@
   
 <h2>Education</h2>
 <p>Bachelor's of Science Computer Science at University of Central Florida</p>
+
+  <h2>Continued Education</h2>
+  <p>Puralsight has been a fantastic resource personally to keep up with tech education in all areas. <a href='https://app.pluralsight.com/profile/stephen-moreira'>Puralsight Profile</a></p>
   
 <h2>Certifications</h2>
   <p>Working on Azure: Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions <a href='https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/#certification-prerequisites'>Certification</a></p>
