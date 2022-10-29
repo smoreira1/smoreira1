@@ -64,10 +64,3 @@
   <li><a href='https://leetcode.com/Yuifa/'>https://leetcode.com/Yuifa/</a></li>
 </ul>
 
-<h2>Activity</h2>
-Unforunately many of my commits are on Azure Dev Ops.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smoreira1&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
