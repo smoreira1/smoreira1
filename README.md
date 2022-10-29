@@ -46,14 +46,12 @@
 - java spring boot
 - aws dynamodb
   
-<h3>Biography</h3>
-  <p>Built with:</p> 
- - qwik.
+<h2>Education</h2>
+<p>Bachelor's of Science Computer Science at University of Central Florida</p>
   
-<h3>Real Code</h3>
-  <p>Built with:</p>
-- Angular
-- Firebase
+<h2>Certifications</h2>
+  
+<h2>Awards</h2>
 
 <h2>Coding Proficiency</h2>
 <p>
