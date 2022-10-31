@@ -62,7 +62,7 @@
   
   <h2>Full Stack Application Development</h2>
   <p>As full stack developers there are many moving parts. Visit my google slides here for tips, tricks, tooling, and process. There might be one small detail, concept or tool that could dramatically increase your application or development work flow. </p>
-  <a href=''>Google Slides</a>
+  <a href='https://docs.google.com/presentation/d/1alfbJL402DW6kSMW0_iqHMGJhBDC5qkVc8qf3xV_3Io/edit?usp=sharing'>Google Slides</a>
 
 <h2>Coding Proficiency</h2>
 <p>
