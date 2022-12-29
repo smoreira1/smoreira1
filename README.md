@@ -64,12 +64,3 @@
   <p>As full stack developers there are many moving parts. Visit my google slides here for tips, tricks, tooling, and process. There might be one small detail, concept or tool that could dramatically increase your application or development work flow. </p>
   (In Progress)
   <a href='https://docs.google.com/presentation/d/1alfbJL402DW6kSMW0_iqHMGJhBDC5qkVc8qf3xV_3Io/edit?usp=sharing'>Google Slides</a>
-
-<h2>Coding Proficiency</h2>
-<p>
-  Though I believe there are plenty of real cool and fun problems to solve in these coding sites. It has been my experience and belief these offer either little value or in fact negative value when it comes to real world applicantion of software development. My personal advice to anyone would be build a product to get real tangiable experience. Unfortunately there has now been a bussiness sector propelling and investing in these sites and question for interview processes that have little to do with day to day job roles in majority of the software development industry.  
-</p>
-<ul>
-  <li><a href='https://leetcode.com/Yuifa/'>https://leetcode.com/Yuifa/</a></li>
-</ul>
-
