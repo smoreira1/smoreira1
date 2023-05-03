@@ -68,6 +68,7 @@
   
   <h2>Learning</h2>
   <p>What am I currently learning?</p>
-  - WebGPU
-  - WGSL
-  - Rust
+  
+   - WebGPU
+   - WGSL
+   - Rust
