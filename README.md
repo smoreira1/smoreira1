@@ -42,12 +42,11 @@
 - ....and many more. 
   
   
-  Starlight (Trunk Configuration)
-  AI Nova (QA configuration)
-  Shutter (UAT Configuration)
-  
-Above is separated into different configurations to illustrate the flexible configuration of the application. 
-  
+  Below are separated environments to illustrate the flexible configuration of the application. 
+
+ - Starlight 
+ - AI Nova 
+ - Shutter 
   
 
 <p>More details to come soon, this project is private and mainly lives on Azure Dev Ops.</p>
