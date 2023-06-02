@@ -1,17 +1,18 @@
 <h1 align="center">Hello World 🌎 👋 , I'm Stephen a Software Engineer from Orlando, Florida!</h1>
-<p align="left">There are a lot of titles developers can get assigned, but I to mentally identify as a "Software Engineer". The conceptual meaning I have for that title: I work on and study the intersection of Computer Science and Economics.</p>
-
-> **Note**
-<i>This profile is currently being highly altered until I am happy with it's structure =] 10/21/2022</i>
+<p align="left">My current passion is around the web application world. From Progress Web Application.(PWA) to the exciting new technologies under web gpu. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smoreira1&label=Profile%20views&color=0e75b6&style=flat" alt="smoreira1" /> </p>
 
-- 🔭 I’m currently working on **Starlight**
+- 🔭 I’m currently working on **Starlight** a highly configurable and reactive technologies platform.
+
+- Here is an old indepth skill set and experience under my belt. 
 - Portfolio Doc: https://smoreira1.github.io/  
-- 📫 How to reach me : **stephen.d.moreira@gmail.com**
+
+
+- 📫 How to reach me : **stephen.d.moreira@gmail.com** Feel free to reach out professionally, for advice or even mentorship.
 
 <h2>Resume</h2>
-<p>Feel free to take a look at my <a href='https://resume.io/r/hTW5esvBv'>resume</a>.</p>
+<p>Feel free to take a look at my offical.<a href='https://resume.io/r/hTW5esvBv'>resume</a>. Do keep in mind that I am not constantly working on my resume.</p>
 
 <h2>Socials</h2>
 <h3 align="left">Connect with me: I'm fairly active on twitter!</h3>
