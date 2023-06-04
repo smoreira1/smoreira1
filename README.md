@@ -30,33 +30,6 @@
 <i><span style='color:red;'>The application sandbox above is part of CI/the trunk build. Could very well be broken as it is actively under development, though I personally aim the sandbox to be a real product in it's own right with it's own configuration and theme as well.</span> </i>
 
 <p>Project Starlight a product that belongs to B.L. Media Group LLC which I own is a product aimed at ultra low latency and reactive products. The environment above is a public configured version with many features potentially disabled via features flags. Built with the following technologies:</p>
-
-- Angular
-- Azure
-- RxJS
-- NestJS
-- Tailwind
-- Angular Material
-- Docker
-- Firebase
-- Azure Pipelines
-- ....and many more. 
-  
-  
-  Below are separated environments to illustrate the flexible configuration of the application. 
-
- - Starlight 
- - AI Nova 
- - Shutter 
-  
-
-<p>More details to come soon, this project is private and mainly lives on Azure Dev Ops.</p>
-
-<h3>B.L. Media Group LLC Marketing Site</h3>
-  <p>Built with:</p>
-- qwik.
-- java spring boot
-- aws dynamodb
   
 <h2>Education</h2>
 <p>Bachelor's of Science Computer Science at University of Central Florida</p>
